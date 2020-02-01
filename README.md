@@ -39,7 +39,3 @@ The application was deployed on heroku.
 * [bad-words](https://www.npmjs.com/package/bad-words) - Word Filter
 * [nodemon](https://www.npmjs.com/package/nodemon) - Node.js Hot Reload
 
-## Acknowledgments
-
-* Andrew Mead Udemy Course. 
-[Link](https://mead.io/)
